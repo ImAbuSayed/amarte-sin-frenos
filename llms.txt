@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amarte-sin-frenos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Amarte sin frenos, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amarte-sin-frenos/) |
+| **Get License** | [Obtain a Music License for Amarte sin frenos, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amarte-sin-frenos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3818)
 
 ---
 
