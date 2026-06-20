@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amarte sin frenos, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Amarte sin frenos, Vol. 2** (amarte-sin-frenos-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T20:27:48.069253 | `v1` | `b3f5069cba8c35ff5f1b4e6e2af7d87cebfc6a09d363ed4fd931231550f5ad6c` | `08cab79939c6930566d08245c0aae366cf74aca187879693d08df5d4ea9a1692` | `2026-06-20_amarte-sin-frenos-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

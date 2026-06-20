@@ -1,4 +1,4 @@
-# Amarte sin frenos
+# Amarte sin frenos, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Amarte sin frenos |
+| **Title** | Amarte sin frenos, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amarte-sin-frenos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Amarte sin frenos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amarte-sin-frenos/) |
+| **Get License** | [Get License For Amarte sin frenos, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amarte-sin-frenos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, ponte el cinturón que esta noche no hay stop
+> Tú y yo quemando la calle desde el piso hasta el top
+> Esa mirada me dice que quieres perder el control
+> Ven, súbete al carro, que hoy mando yo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b3f5069cba8c35ff5f1b4e6e2af7d87cebfc6a09d363ed4fd931231550f5ad6c` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
